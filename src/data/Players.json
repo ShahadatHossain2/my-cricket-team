@@ -1,0 +1,76 @@
+[{
+    "id": 1,
+    "name": "Sakib Al Hasan",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/201.png",
+    "salary": 2000
+  }, {
+    "id": 2,
+    "name": "Imrul Kayes",
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Imrul-Kayes-Ct17.ashx",
+    "salary": 500
+  }, {
+    "id": 3,
+    "name": "Tamim Iqbal",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/287.png",
+    "salary": 2000
+  }, {
+    "id": 4,
+    "name": "Soumya Sarkar",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1919.png",
+    "salary": 1000
+  }, {
+    "id": 5,
+    "name": "Nazmul Hossain",
+    "image": "https://images.cricket.com/players/63872_headshot_safari.png",
+    "salary": 500
+  }, {
+    "id": 6,
+    "name": "Sabbir Rahman",
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Sabbir-Rahman-Ct17.ashx",
+    "salary": 400
+  }, {
+    "id": 7,
+    "name": "chris gayle",
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/West%20Indies/ODIWC19/Chris-Gayle-CWC19.ashx",
+    "salary": 4000
+  }, {
+    "id": 8,
+    "name": "Virat Kohli",
+    "image": "https://magazine.xpert.tv/wp-content/uploads/2020/06/Virat-Kohli-2.png",
+    "salary": 5000
+  }, {
+    "id": 9,
+    "name": "Mashrafe Mortaza",
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mashrafe-Mortaza-CWC19.ashx",
+    "salary": 1500
+  }, {
+    "id": 10,
+    "name": "Litton Das",
+    "image": "https://dailysportsupdates.com/wp-content/uploads/2019/04/Liton-Das.png",
+    "salary": 1000
+  }, {
+    "id": 11,
+    "name": "Hashim Amla",
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/South%20Africa/Hashim-Amla-CWC19.ashx",
+    "salary": 3500
+  }, {
+    "id": 12,
+    "name": "Mushfiqur Rahmin",
+    "image": "https://3.bp.blogspot.com/-ET4E9fPaTAg/WAoT0NXcILI/AAAAAAAAAPE/9faUb2Jr0so9HcvfgXdPdmIOO5DKWOPTwCEw/s400/491.png",
+    "salary": 2000
+  }, {
+    "id": 13,
+    "name": "Rohit Sharma",
+    "image": "https://cricdost.com/blog/wp-content/uploads/2019/01/rohit-sharma.png",
+    "salary": 4500
+  }, {
+    "id": 14,
+    "name": "Dwayne Bravo",
+    "image": "https://www.faisports.com/images/players/prof_pic_1e3fb44c2f8ee693c7c15132224f42c8.png",
+    "salary": 5000
+  }, {
+    "id": 15,
+    "name": "Shahid Afridi",
+    "image": "http://4.bp.blogspot.com/-LCrhTbmEVeM/TZbZ6y0jagI/AAAAAAAAARw/p_lw1A8dhgo/s1600/shahid-afridi-Cricket-world-cup-2011.jpg",
+    "salary": 4000
+  }]

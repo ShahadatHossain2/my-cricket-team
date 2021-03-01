@@ -1,0 +1,21 @@
+.player img{
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+
+}
+.player{
+    border-radius: 10px;
+    width: 150px;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    line-height: 50%;
+}
+.player button{
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid gray;
+    background-color: goldenrod;
+    width: 100px;
+}
