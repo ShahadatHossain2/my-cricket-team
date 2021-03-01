@@ -6,16 +6,17 @@
 }
 .player{
     border-radius: 10px;
-    width: 150px;
+    width: 250px;
     margin: 20px;
     padding: 5px;
     text-align: center;
     line-height: 50%;
+    box-shadow: 10px 10px 40px gray;
 }
 .player button{
     cursor: pointer;
     border-radius: 5px;
     border: 1px solid gray;
     background-color: goldenrod;
-    width: 100px;
+    width: 120px;
 }

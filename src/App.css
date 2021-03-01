@@ -1,11 +1,7 @@
 .player-container{
   display: grid;
-  grid-template-columns: repeat(4,1fr);
+  grid-template-columns: repeat(3,1fr);
   width: 70%;
-  border-right: 2px solid lightgrey;
-}
-.main-container{
-  display: flex;
 }
 .cart-container {
   margin-left: 10px;
